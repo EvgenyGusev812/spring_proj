@@ -1,1 +1,1 @@
-# bank_system_trainee
+# spring_proj
